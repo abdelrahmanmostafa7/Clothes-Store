@@ -1,16 +1,8 @@
 {
-    "routes":[
+    "rewrites": [
         {
-        "src": "/",
-        "dest": "/home"
-        },
-        {
-        "src": "/products/:id",
-        "dest": "/"
-        },
-        {
-        "src": "/product/:id",
-        "dest": "/"
+            "source": "/(.*)",
+            "destination": "/"
         }
     ]
 }
