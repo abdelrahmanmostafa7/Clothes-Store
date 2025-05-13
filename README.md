@@ -2,6 +2,8 @@
 
 RuRe Store is a modern e-commerce web application built with React, Vite, and React Router. It features a clean and responsive design, allowing users to browse products, filter by categories, and view detailed product information.
 
+## Live Demo : https://clothes-store-sandy-nine.vercel.app/
+
 ## Features
 
 - **Home Page**: Showcases featured and trending products.
